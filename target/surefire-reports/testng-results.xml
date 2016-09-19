@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="31269" started-at="2016-09-06T11:25:09Z" finished-at="2016-09-06T11:25:41Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="31269" started-at="2016-09-06T11:25:09Z" finished-at="2016-09-06T11:25:41Z">
+      <class name="com.sample.firstmavenproject.SampleGoogleTestCase_1">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase_1@6a5fc7f7]" name="testSetUp" is-config="true" duration-ms="5181" started-at="2016-09-06T16:55:32Z" finished-at="2016-09-06T16:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase_1@6a5fc7f7]" name="verifyGooglePageTittle" duration-ms="2459" started-at="2016-09-06T16:55:38Z" finished-at="2016-09-06T16:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase_1@6a5fc7f7]" name="tearDown" is-config="true" duration-ms="584" started-at="2016-09-06T16:55:40Z" finished-at="2016-09-06T16:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.firstmavenproject.SampleGoogleTestCase_1 -->
+      <class name="com.sample.firstmavenproject.SampleGoogleTestCase">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase@5594a1b5]" name="testSetUp" is-config="true" duration-ms="17195" started-at="2016-09-06T16:55:09Z" finished-at="2016-09-06T16:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase@5594a1b5]" name="verifyGooglePageTittle" duration-ms="4101" started-at="2016-09-06T16:55:27Z" finished-at="2016-09-06T16:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sample.firstmavenproject.SampleGoogleTestCase@5594a1b5]" name="tearDown" is-config="true" duration-ms="1701" started-at="2016-09-06T16:55:31Z" finished-at="2016-09-06T16:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.firstmavenproject.SampleGoogleTestCase -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
